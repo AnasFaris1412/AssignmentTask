@@ -28,7 +28,7 @@ https://github.com/AnasFaris1412/AssignmentTask.git
 
 - Create a table: Run a statement of create table inside SqliteTaskProject/DDL.sql
 
-- Import SqliteTaskProject.war file into Eclipse workspace
+- Import SqliteTaskProject.war file into Eclipse workspace or copy workspace SqliteTaskProject to the Eclipse workspace
 
 - Start a server
 
