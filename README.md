@@ -36,7 +36,8 @@ https://github.com/AnasFaris1412/AssignmentTask.git
 
 # Screenshot
 
-- AssignmentTask/Screenshot Interface/1_Home.PNG
+- https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/1_Home.PNG?raw=true
+
 
 
 
