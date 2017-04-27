@@ -36,10 +36,23 @@ https://github.com/AnasFaris1412/AssignmentTask.git
 
 # Screenshot
 
-- ![alt text] (https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/1_Home.PNG)
+- Home
+[![Home](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/1_Home.PNG)](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/1_Home.PNG)
 
-- [![Home](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/1_Home.PNG)](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/1_Home.PNG)
+- List all task
+[![List_all_task](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/2_List_all_task.PNG)](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/2_List_all_task.PNG)
 
+- Create new task
+[![Create_new_task](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/3_Create_new_task.PNG)](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/3_Create_new_task.PNG)
 
+- Successful create new task
+[![Successful_create_new_task](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/4_Successful_create_new_task.PNG)](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/4_Successful_create_new_task.PNG)
 
+- Edit task
+[![Edit_task](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/5_Edit_task.PNG)](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/5_Edit_task.PNG)
 
+- Successful edit task
+[![Successful_edit_task](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/6_Successful_edit_task.PNG)](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/6_Successful_edit_task.PNG)
+
+- Successful delete task
+[![Successful_delete_task](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/7_Successful_delete_task.PNG)](https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/7_Successful_delete_task.PNG)
