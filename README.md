@@ -36,7 +36,7 @@ https://github.com/AnasFaris1412/AssignmentTask.git
 
 # Screenshot
 
-- https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/1_Home.PNG?raw=true
+- ![alt text] (https://github.com/AnasFaris1412/AssignmentTask/blob/master/Screenshot%20Interface/1_Home.PNG?raw=true)
 
 
 
